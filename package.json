@@ -1,0 +1,17 @@
+
+
+{  
+  "name": "abcscholar",  
+  "version": "1.0.0",  
+  "description": "A website for ABCscholar",  
+  "main": "server.js",  
+  "scripts": {  
+   "start": "node server.js"  
+  },  
+  "keywords": [],  
+  "author": "",  
+  "license": "ISC",  
+  "dependencies": {  
+   "express": "^4.17.1"  
+  }  
+}
